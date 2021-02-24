@@ -1,0 +1,5 @@
+location = "westus"
+resource_group = "WebApp"
+cloud_shell_source = "137.116.212.169"
+domain_name_prefix = "nobs"
+management_ip = "129.205.124.221"
